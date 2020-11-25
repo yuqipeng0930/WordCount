@@ -26,7 +26,7 @@ WordCountV0.1为空项目，WordCountV0.2能够统计纯英文txt文本中的字
 
 请输入文本文件完整的路径。
 
-其中，test1.txt为测试文本，单元测试项目为UnitTestV0.3.cpp，头文件为wc.h，源文件为WordCountV0.3.cpp，该项目已成功实现扩展功能，并且成功运行单元测试，结果见截图。性能测试也包含其中。
+其中，test1.txt为测试文本，单元测试项目为UnitTestV0.3.cpp，头文件为wc.h，源文件为WordCountV0.3.cpp，该项目已成功实现扩展功能，并且成功运行单元测试。性能测试也包含其中。
 
 ![](https://github.com/yuqipeng0930/WordCount/blob/master/WordCountV0.3/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.jpg)
 
