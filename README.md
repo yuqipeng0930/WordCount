@@ -36,7 +36,7 @@ WordCountV0.3
 
 **注意：请输入文本文件完整的路径！**
 
-项目运行结果与单元测试结果如图(图片较大，请耐心等待，可以试试科学上网)
+项目运行结果与单元测试结果如图(图片较大，请耐心等待，可以试试科学上网)：
 
 ![](https://github.com/yuqipeng0930/WordCount/blob/master/WordCountV0.3/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.jpg)
 ![](https://github.com/yuqipeng0930/WordCount/blob/master/WordCountV0.3/UnitTestV0.3.jpg)
@@ -74,7 +74,7 @@ WordCountV0.4
 
 **注意：请输入文本文件完整的路径！**
 
-项目运行结果与单元测试结果如图
+项目运行结果与单元测试结果如图：
 
 ![](https://github.com/yuqipeng0930/WordCount/blob/master/WordCountV0.4/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.jpg)
 ![](https://github.com/yuqipeng0930/WordCount/blob/master/WordCountV0.4/UnitTestV0.4.jpg)
