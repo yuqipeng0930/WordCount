@@ -12,49 +12,71 @@ WordCountV0.1为空项目，WordCountV0.2能够统计纯英文txt文本中的字
 
 第二次提交的项目为：
 
-(1)WordCountV0.3
+WordCountV0.3
 
-可以统计以下：
+包含文件有：
+|文件|说明|
+|---------|---------------|
+|UnitTestV0.3.cpp| 单元测试项目|
+|WordCountV0.3.cpp|源文件|
+|wc.h|头文件|
+|test1.txt|测试文本|
+|UnitTestV0.3.jpg|单元测试结果|
+|运行结果.jpg|项目运行结果|
+|报告V0.3.diagsession|性能测试报告|
 
-(1)单词数 -w
-
-(2)字符数 -c
-
-(3)句子数 -s
+可以统计的内容以下：
+|内容|命令|
+|---------|---------------|
+|单词数|-w|
+|字符数|-c|
+|句子数|-s|
 
 在cmd中输入命令，例：Project1.exe -w D://test1.txt 
 
-请输入文本文件完整的路径。
+**注意：请输入文本文件完整的路径！**
 
-其中，test1.txt为测试文本，单元测试项目为UnitTestV0.3.cpp，头文件为wc.h，源文件为WordCountV0.3.cpp，该项目已成功实现扩展功能，并且成功运行单元测试。性能测试也包含其中。
+项目运行结果与单元测试结果如图(图片较大，请耐心等待，可以试试科学上网)
 
 ![](https://github.com/yuqipeng0930/WordCount/blob/master/WordCountV0.3/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.jpg)
+![](https://github.com/yuqipeng0930/WordCount/blob/master/WordCountV0.3/UnitTestV0.3.jpg)
 
 #
 
 第三次提交的项目为：
 
-(1)WordCountV0.4
+WordCountV0.4
+
+包含文件有：
+|文件|说明|
+|---------|---------------|
+|UnitTestV0.4.cpp| 单元测试项目|
+|WordCountV0.4.cpp|源文件|
+|wc.h|头文件|
+|test2.txt|测试文本|
+|UnitTestV0.4.jpg|单元测试结果|
+|运行结果.jpg|项目运行结果|
+|报告V0.4.diagsession|性能测试报告|
+
 
 可以统计以下：
 
-(1)单词数 -w
-
-(2)字符数 -c
-
-(3)句子数 -s
-
-(4)总行数 -tl
-
-(5)空白行数 -bl
-
-(6)注释行数 -cl
+|内容|命令|
+|---------|---------------|
+|单词数|-w|
+|字符数|-c|
+|句子数|-s|
+|总行数| -tl|
+|空白行数|-bl|
+|注释行数|-cl|
 
 在cmd中输入命令，例：Project1.exe -w D://test1.txt 
 
-请输入文本文件完整的路径。
+**注意：请输入文本文件完整的路径！**
 
-其中，test2.txt为测试文本，单元测试项目为UnitTestV0.4.cpp，头文件为wc.h，源文件为WordCountV0.4.cpp，该项目已成功实现基础功能，并且成功运行单元测试，结果见截图。性能测试也包含其中。
+项目运行结果与单元测试结果如图
 
+![](https://github.com/yuqipeng0930/WordCount/blob/master/WordCountV0.4/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.jpg)
+![](https://github.com/yuqipeng0930/WordCount/blob/master/WordCountV0.4/UnitTestV0.4.jpg)
 
 
